@@ -86,7 +86,7 @@ a:focus, a:active, input:focus, input:active {outline: 0;}
 
 a, a:active, a:visited  { color: #AA1E48; -webkit-transition:color .3s ease-in-out; -moz-transition:all .3s ease-in-out; transition:all .3s ease-in-out;}
 
-
+figure img {max-width: 100%;}
 
 /*Form Elements*/
 form { margin: 0; }
