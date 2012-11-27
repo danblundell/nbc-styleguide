@@ -1,10 +1,10 @@
-(function($) {
-
+(function() {
 	var nbcApp = nbcApp || {};
 
-	nbcApp.init = function(){
-		//onload stuff goes here - console comments break in IE 
-		//console.log("running");
-	}();
+	var nbcApp.init = function(){
+		//
+	};
 
-})(jQuery);
+	var app = new nbcApp();
+
+})();
